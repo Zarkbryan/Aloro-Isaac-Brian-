@@ -62,10 +62,6 @@ This project is a web-based lighting control system built with an ESP32 using Wi
 ### Light Level Display
 The current ambient light level read by the LDR will be displayed on the dashboard.
 
-## Example Web Dashboard
-
-![Dashboard Example](images/dashboard_example.png)
-
 ## Troubleshooting
 
 - Ensure that your ESP32 is properly connected to the WiFi network.
